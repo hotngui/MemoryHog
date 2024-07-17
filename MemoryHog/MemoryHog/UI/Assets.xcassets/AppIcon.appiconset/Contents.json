@@ -1,0 +1,14 @@
+{
+  "images" : [
+    {
+      "filename" : "Firefly 1024x1024 image of a hog eating memory using mostly purple colors that looks like a cartoon .jpg",
+      "idiom" : "universal",
+      "platform" : "ios",
+      "size" : "1024x1024"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
