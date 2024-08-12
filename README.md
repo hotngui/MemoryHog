@@ -17,4 +17,4 @@ This is an app you can build and install on an iOS device to help _**chew up**_ 
 <br>
 If you want to support my work, you can by me a coke zero... <br><br>
 
-<a href='https://ko-fi.com/F1F4UHD6J' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://ko-fi.com/img/githubbutton_sm.svg' border='0' alt='Buy Me a Coke Zero at ko-fi.com' /></a>
+<script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Buy me a Coke Zero at ko-fico', '#29abe0', 'F1F4UHD6J');kofiwidget2.draw();</script> 
